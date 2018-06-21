@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[开发设置文档]]></title>
+    <url>%2F2018%2F06%2F20%2FDevelopment-Settings-document%2F</url>
+    <content type="text"><![CDATA[开发文档设置 来源网址https://www.jianshu.com/p/0130ad32a08d 导语 Markdown 是一种可以使用普通文本编辑器编写的标记语言，通过简单的标记语法，它可以使普通文本内容具有一定的格式。 一、Markdown 官方文档 Markdown 中文版语法说明 二、常用的语法规则 文中所提到的快捷键仅限 Mou 软件中使用，部分语法「简书」可能不支持。建议每个符号和文字之间留有一个空格。]]></content>
+      <tags>
+        <tag>语法设置</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Artcle]]></title>
+    <url>%2F2018%2F06%2F20%2FArtcle%2F</url>
+    <content type="text"></content>
+      <categories>
+        <category>Testing</category>
+      </categories>
+      <tags>
+        <tag>Testing</tag>
+        <tag>Another Tag</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2018%2F06%2F20%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+  </entry>
+</search>
