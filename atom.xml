@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo Mushroom</title>
+  
+  <subtitle>王帅文的蘑菇小站</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-06-22T06:46:39.000Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Tomas_Wang</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>蘑菇站公告</title>
+    <link href="http://yoursite.com/2018/06/22/self-introduction/"/>
+    <id>http://yoursite.com/2018/06/22/self-introduction/</id>
+    <published>2018-06-22T06:34:23.000Z</published>
+    <updated>2018-06-22T06:46:39.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="蘑菇小站测试版已经公布了"><a href="#蘑菇小站测试版已经公布了" class="headerlink" title="蘑菇小站测试版已经公布了!!!"></a><center>蘑菇小站测试版已经公布了!!!</center></h1><h3 id="注意"><a href="#注意" class="headerlink" title="注意:"></a><strong>注意</strong>:</h3><p>  在测试期间,有任何想开发的功能请写在留言区,此博客由Hexo + Next开发,详细开发方法会在以后的文章更新的。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;蘑菇小站测试版已经公布了&quot;&gt;&lt;a href=&quot;#蘑菇小站测试版已经公布了&quot; class=&quot;headerlink&quot; title=&quot;蘑菇小站测试版已经公布了!!!&quot;&gt;&lt;/a&gt;&lt;center&gt;蘑菇小站测试版已经公布了!!!&lt;/center&gt;&lt;/h1&gt;&lt;h3 id=&quot;注意
+      
+    
+    </summary>
+    
+      <category term="system notice" scheme="http://yoursite.com/categories/system-notice/"/>
+    
+    
+      <category term="Another Tag" scheme="http://yoursite.com/tags/Another-Tag/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Markdown 语法笔记</title>
+    <link href="http://yoursite.com/2018/06/22/Markdown-Grammar/"/>
+    <id>http://yoursite.com/2018/06/22/Markdown-Grammar/</id>
+    <published>2018-06-22T01:32:11.000Z</published>
+    <updated>2018-06-22T06:33:09.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Markdown-语法入门（Mou"><a href="#Markdown-语法入门（Mou" class="headerlink" title="Markdown 语法入门（Mou)"></a>Markdown 语法入门（Mou)</h1><p><img src="images/markdown/markdown_1.png" alt="Mou icon"><br><u><p align="center">Mou icon</p></u><br>如果你觉得这篇文章对你有帮助或启发，请点下打赏，谢谢!</p><h2 id="导语："><a href="#导语：" class="headerlink" title="导语："></a>导语：</h2><blockquote><p>Markdown 是一种可以使用普通文本编辑器编写的标记语言，通过简单的标记语法，它可以使普通文本内容具有一定的格式。</p></blockquote><h2 id="一、Markdown-官方文档"><a href="#一、Markdown-官方文档" class="headerlink" title="一、Markdown 官方文档"></a>一、Markdown 官方文档</h2><blockquote><p><a href="https://link.jianshu.com/?t=http://www.appinn.com/markdown/" target="_blank" rel="noopener">Markdown 中文版语法说明</a></p></blockquote><h2 id="二、常用的语法规则"><a href="#二、常用的语法规则" class="headerlink" title="二、常用的语法规则"></a>二、常用的语法规则</h2><blockquote><p>文中所提到的快捷键仅限 Mou 软件中使用，部分语法「简书」可能不支持。建议每个符号和文字之间留有一个空格。</p></blockquote><h2 id="标题"><a href="#标题" class="headerlink" title="标题"></a>标题</h2><p>总共六级标题，建议在井号后加一个空格，这是最标准的 Markdown 语法<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"># 一级标题</span><br><span class="line">## 二级标题</span><br><span class="line">### 三级标题</span><br><span class="line">#### 四级标题</span><br><span class="line">##### 五级标题</span><br><span class="line">###### 六级标题</span><br></pre></td></tr></table></figure></p><p><img src="images/markdown/markdown_2.png" alt="标题"></p><h2 id="换行和分段"><a href="#换行和分段" class="headerlink" title="换行和分段"></a>换行和分段</h2><ul><li>换行：只需在行末加两个空格键和一个回车键即可换行</li><li>分段：段落之间空一行即可。</li></ul><p><img src="images/markdown/markdown_3.png" alt="换行和分段"></p><h2 id="文本样式"><a href="#文本样式" class="headerlink" title="文本样式"></a>文本样式</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">** 加粗 **</span><br><span class="line">* 斜体 *</span><br><span class="line">~~ 删除线 ~~</span><br><span class="line">` 底纹 `</span><br></pre></td></tr></table></figure><p><img src="images/markdown/markdown_4.png" alt="文本样式"></p><h2 id="列表"><a href="#列表" class="headerlink" title="列表"></a>列表</h2><p>在Markdown 下，无序列表直接在文字前加 「 - 」 或者 「 * 」 即可，有序列表则直接在文字前加 「1.」「2.」「3.」 。符号要和文字之间加上一个字符的空格。</p><ul><li><p><strong>无序列表</strong>： 在文本前加 「 <em> 」 即可生成一个无序列表。<br>在 「 </em> 」 前加两个空格键或者一个 tab 键就可以产生一个子列表。</p></li><li><p><strong>有序列表</strong>:在文本前加 「字母.」 或 「数字.」 即可生成一个有序列表。<br>注意，当你第一个序号使用什么作为标记的，那么同级别的列表就会自动使用其作为标记。</p></li></ul><p><img src="images/markdown/markdown_5.png" alt="无序列表和有序列表"></p><h2 id="引用"><a href="#引用" class="headerlink" title="引用"></a>引用</h2><p>只要在文本内容之前加 「 &gt; （大于号）」 即可将文本变成引用文本。</p><h2 id="图片与连接"><a href="#图片与连接" class="headerlink" title="图片与连接"></a>图片与连接</h2><p>如果只是简单的插入图片和连接，那么非常简单。两者仅仅是一个 「 ! 」 的区别。</p><ul><li><p>图片</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">![图片描述](链接的地址)</span><br></pre></td></tr></table></figure></li><li><p>** 链接 **</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">[文本内容](链接的地址)</span><br></pre></td></tr></table></figure></li></ul><p><img src="images/markdown/markdown_6.png" alt="图片和连接"></p><h2 id="水平线"><a href="#水平线" class="headerlink" title="水平线"></a>水平线</h2><p>三个「 - 」或「 * 」都可以画出一条水平分割线<br><img src="images/markdown/markdown_7.png" alt="水平线"></p><h2 id="代码框"><a href="#代码框" class="headerlink" title="代码框"></a>代码框</h2><ul><li>两对「 <code>`</code> 」包裹</li><li>代码前加四个空格键</li><li>代码前加一个 tab 键<blockquote><p>注意，简书上需空一行后，在代码前加四个空格键或者两个 tab 键才可以生成代码框。<br>有点遗憾的是，笔者未能找到让代码显示行数的方法。</p></blockquote></li></ul><h1 id="更新中…未完待续"><a href="#更新中…未完待续" class="headerlink" title="更新中…未完待续~~"></a><code>更新中</code>…未完待续~~</h1><p><img src="images/markdown/markdown_8.png" alt="代码框"><br><img src="images/markdown/markdown_9.png" alt=""><br><img src="images/markdown/markdown_10.png" alt=""><br><img src="images/markdown/markdown_11.png" alt=""></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;Markdown-语法入门（Mou&quot;&gt;&lt;a href=&quot;#Markdown-语法入门（Mou&quot; class=&quot;headerlink&quot; title=&quot;Markdown 语法入门（Mou)&quot;&gt;&lt;/a&gt;Markdown 语法入门（Mou)&lt;/h1&gt;&lt;p&gt;&lt;img src
+      
+    
+    </summary>
+    
+      <category term="notes" scheme="http://yoursite.com/categories/notes/"/>
+    
+    
+      <category term="markdown" scheme="http://yoursite.com/tags/markdown/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>开发设置文档</title>
+    <link href="http://yoursite.com/2018/06/20/Development-Settings-document/"/>
+    <id>http://yoursite.com/2018/06/20/Development-Settings-document/</id>
+    <published>2018-06-20T12:04:51.000Z</published>
+    <updated>2018-06-20T13:54:26.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://timgsa.baidu.com/timg?image&amp;quality=80&amp;size=b9999_10000&amp;sec=1529510384515&amp;di=8ce833546cb2b18475d8bfbfac6ae1b2&amp;imgtype=0&amp;src=http%3A%2F%2Fpic.58pic.com%2F58pic%2F13%2F56%2F18%2F58PIC3s58PICYvk_1024.jpg" alt="title image"></p><h1 id="开发文档设置"><a href="#开发文档设置" class="headerlink" title="开发文档设置"></a>开发文档设置</h1><hr><h3 id="来源网址"><a href="#来源网址" class="headerlink" title="来源网址"></a>来源网址</h3><p><a href="https://www.jianshu.com/p/0130ad32a08d" target="_blank" rel="noopener">https://www.jianshu.com/p/0130ad32a08d</a></p><h2 id="导语"><a href="#导语" class="headerlink" title="导语"></a>导语</h2><blockquote><p>Markdown 是一种可以使用普通文本编辑器编写的标记语言，通过简单的标记语法，它可以使普通文本内容具有一定的格式。</p></blockquote><h2 id="一、Markdown-官方文档"><a href="#一、Markdown-官方文档" class="headerlink" title="一、Markdown 官方文档"></a>一、Markdown 官方文档</h2><blockquote><p>Markdown 中文版语法说明</p></blockquote><h2 id="二、常用的语法规则"><a href="#二、常用的语法规则" class="headerlink" title="二、常用的语法规则"></a>二、常用的语法规则</h2><blockquote><p>文中所提到的快捷键仅限 Mou 软件中使用，部分语法「简书」可能不支持。建议每个符号和文字之间留有一个空格。</p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;https://timgsa.baidu.com/timg?image&amp;amp;quality=80&amp;amp;size=b9999_10000&amp;amp;sec=1529510384515&amp;amp;di=8ce833546cb2b18475d8bfbfac
+      
+    
+    </summary>
+    
+    
+      <category term="语法设置" scheme="http://yoursite.com/tags/%E8%AF%AD%E6%B3%95%E8%AE%BE%E7%BD%AE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Artcle</title>
+    <link href="http://yoursite.com/2018/06/20/Artcle/"/>
+    <id>http://yoursite.com/2018/06/20/Artcle/</id>
+    <published>2018-06-20T05:30:51.000Z</published>
+    <updated>2018-06-21T10:28:56.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="Testing" scheme="http://yoursite.com/categories/Testing/"/>
+    
+    
+      <category term="Testing" scheme="http://yoursite.com/tags/Testing/"/>
+    
+      <category term="Another Tag" scheme="http://yoursite.com/tags/Another-Tag/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2018/06/20/hello-world/"/>
+    <id>http://yoursite.com/2018/06/20/hello-world/</id>
+    <published>2018-06-20T02:06:46.000Z</published>
+    <updated>2018-06-20T02:06:46.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
