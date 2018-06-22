@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[Markdown 语法笔记]]></title>
+    <url>%2F2018%2F06%2F22%2FMarkdown-Grammar%2F</url>
+    <content type="text"><![CDATA[Markdown 语法入门（Mou)Mou icon如果你觉得这篇文章对你有帮助或启发，请点下打赏，谢谢! 导语： Markdown 是一种可以使用普通文本编辑器编写的标记语言，通过简单的标记语法，它可以使普通文本内容具有一定的格式。]]></content>
+      <categories>
+        <category>notes</category>
+      </categories>
+      <tags>
+        <tag>markdown</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[开发设置文档]]></title>
     <url>%2F2018%2F06%2F20%2FDevelopment-Settings-document%2F</url>
     <content type="text"><![CDATA[开发文档设置 来源网址https://www.jianshu.com/p/0130ad32a08d 导语 Markdown 是一种可以使用普通文本编辑器编写的标记语言，通过简单的标记语法，它可以使普通文本内容具有一定的格式。 一、Markdown 官方文档 Markdown 中文版语法说明 二、常用的语法规则 文中所提到的快捷键仅限 Mou 软件中使用，部分语法「简书」可能不支持。建议每个符号和文字之间留有一个空格。]]></content>
